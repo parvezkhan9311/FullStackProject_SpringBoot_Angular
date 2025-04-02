@@ -1,5 +1,9 @@
 # Employee Management System 🏢
 
+
+UI Screen shot:
+![image](https://github.com/user-attachments/assets/a646009b-5164-4983-a00c-e2edf19f6fc7)
+
 A full-stack web application built with **Spring Boot** (backend), **Angular** (frontend), and **SQL** (database) to manage employee records with CRUD operations.
 
 ## Features ✨
@@ -29,3 +33,4 @@ A full-stack web application built with **Spring Boot** (backend), **Angular** (
    ```bash
    git clone https://github.com/your-username/EmployeeManagement.git
    cd EmployeeManagement/backend
+
